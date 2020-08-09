@@ -1,7 +1,7 @@
 # Microblog-sentiment-classification
 This is the code for the paper "Multi-view ensemble learning method for microblog sentiment classification"
 # Requirements
-Python 3.6
+* Python 3.6
 * Numpy
 * pickle
 * Pandas
